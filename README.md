@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mmccthomas. Chris Thomas
+- 👋 Hi, I’m Chris Thomas
 - 👀 I’m interested in creating or converting traditional ipad/ios games using Pythonista scenes/ui
-- 🌱 I’m currently learning ios gui modules
+- 🌱 I’m currently learning ios gui modules, and producing a framework to easily add gui to console based games
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mmccthomas@gmail.com
 - 😄 Pronouns: ...
